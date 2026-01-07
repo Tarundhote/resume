@@ -15,19 +15,19 @@ const Contact = () => {
           data-aos="zoom-in-up"
           data-aos-duration="1000"
         >
-          <a href="https://www.instagram.com" target="_blank" className="items">
+          <a href="https://www.instagram.com/tarundhote_" target="_blank" className="items">
             <FaInstagram className="icons" />
           </a>
           <a href="https://www.facebook.com" target="_blank" className="items">
             <CiFacebook className="icons" />
           </a>
-          <a href="https://www.linkedin.com" target="_blank" className="items">
+          <a href="https://www.linkedin.com/in/tarun-dhote-405a2824b" target="_blank" className="items">
             <CiLinkedin className="icons" />
           </a>
           <a href="https://www.twiter.com" target="_blank" className="items">
             <CiTwitter className="icons" />
           </a>
-          <a href="https://www.github.com" target="_blank" className="items">
+          <a href="https://github.com/Tarundhote" target="_blank" className="items">
             <FaGithub className="icons" />
           </a>
           <a

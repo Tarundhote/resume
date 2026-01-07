@@ -10,7 +10,7 @@ const Home = () => {
       strings: [
         "Welcome to my Profile",
         "My name is Tarun Dhote",
-        "I am Mern Stack Developer",
+        "I am Front-end Developer",
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -26,7 +26,7 @@ const Home = () => {
         <h1 ref={typedRaf}></h1>
 
         <a
-          href="/resume.pdf"
+          href="/assets/Resume.pdf"
           download="Tarun_Dhote_Resume.pdf"
           className="btn btn-outline-warning my-3"
         >

@@ -14,5 +14,13 @@
   {
     "title": "React",
     "imageSrc": "assets/react.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "assets/c++.jpg"
+  },
+  {
+    "title": "Express Js",
+    "imageSrc": "assets/express.jpg"
   }
 ]
